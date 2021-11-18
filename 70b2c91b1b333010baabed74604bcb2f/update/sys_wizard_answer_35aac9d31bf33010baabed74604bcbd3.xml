@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>demoJenkins</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>demoJenkins</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">22b272c58d232010d152b9319a2024c6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 17:13:48</sys_created_on>
+        <sys_id>35aac9d31bf33010baabed74604bcbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demoJenkins</sys_name>
+        <sys_package display_value="JenkinsDemo" source="x_627807_jenkinsde">70b2c91b1b333010baabed74604bcb2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JenkinsDemo">70b2c91b1b333010baabed74604bcb2f</sys_scope>
+        <sys_update_name>sys_wizard_answer_35aac9d31bf33010baabed74604bcbd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 17:13:48</sys_updated_on>
+        <table/>
+        <target_url>x_627807_jenkinsde_demojenkins.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
